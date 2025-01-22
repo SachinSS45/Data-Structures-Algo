@@ -29,7 +29,8 @@ Click on a month to explore day-wise progress:
 
 #### January 22
 The Problems I have solved : 
-1) [Reverse Number](https://leetcode.com/problems/reverse-integer/description/) : This programs do reverse of number
+1) [Reverse Number-Leetcode](https://leetcode.com/problems/reverse-integer/description/) : This programs do reverse of number
+2) [Print Array](https://github.com/SachinSS45/Data-Structures-Algo/blob/master/Arrays/Program01.java) : This code shows how to print array
 
 #### January 02
 _Description_: Add your learning for January 02 here.
