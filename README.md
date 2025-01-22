@@ -21,14 +21,14 @@ Click on a month to explore day-wise progress:
 ---
 
 ### January
-- **[January 01](#january-01)**
+- **[January 22](#january-22)**
 - **[January 02](#january-02)**
 - **[January 03](#january-03)**
 ...
 - **[January 31](#january-31)**
 
-#### January 01
-_Description_: Add your learning for January 01 here.
+#### January 22
+I did the learning of github desktop
 
 #### January 02
 _Description_: Add your learning for January 02 here.
