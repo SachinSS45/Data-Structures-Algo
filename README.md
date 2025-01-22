@@ -28,7 +28,8 @@ Click on a month to explore day-wise progress:
 - **[January 31](#january-31)**
 
 #### January 22
-I did the learning of github desktop
+The Problems I have solved : 
+1) [Reverse Number](https://leetcode.com/problems/reverse-integer/description/) : This programs do reverse of number
 
 #### January 02
 _Description_: Add your learning for January 02 here.
